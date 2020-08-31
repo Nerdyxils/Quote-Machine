@@ -1,0 +1,43 @@
+.main {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background-color: #db0a5b;
+    font-family: 'Lobster', cursive;
+}
+
+button {
+    padding: 20px 30px;
+    font-size: 1.8rem;
+    font-weight: 900;
+    text-align: center;
+    margin: 20px auto;
+    cursor: pointer;
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    margin: 20px;
+    text-shadow: 5px 0 #000000;
+    font-size: 8rem;
+    color: #ffffff;
+}
+
+h4 {
+    font-size: 2rem;
+    margin-top: 0px;
+    color: #ffffff;
+}
+
+.quoteDisplay {
+    border: 3px solid #ffffff;
+    padding: 100px 100px;
+}
+
+.quoteDisplay P {
+    font-size: 3rem;
+    color: #ffffff;
+}
